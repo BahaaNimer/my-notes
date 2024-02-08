@@ -1,5 +1,4 @@
 # my-notes
-Task for day 01 
 
 ### **Introduction about me :)**
 Name : *Bahaa Nimer*
