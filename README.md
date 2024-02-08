@@ -1,11 +1,11 @@
-# my-notes
+# Summary about me
 
 ### **Introduction about me :)**
 Name : *Bahaa Nimer*
 
 Age : **26**
 
-Education : Bachelor of Civil Engineering
+Education: Bachelor of Civil Engineering
 
 Courses :
 
